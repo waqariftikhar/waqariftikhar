@@ -1,6 +1,3 @@
-Certainly! Below is an updated version of the README.md file using Unicode icons for titles and subtitles:
-
-```markdown
 # Software Testing Expertise
 
 ## 🌟 Introduction
@@ -64,6 +61,3 @@ With a keen attention to detail and a relentless drive for quality, I am dedicat
 
 Feel free to contact me to discuss how I can contribute to the success of your projects through effective testing strategies and implementation.
 
-```
-
-This version uses Unicode icons consistently throughout the document to add visual appeal and clarity to each section and subsection. Adjust the content and icons further as per your preferences and the specific style of your portfolio presentation.
